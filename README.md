@@ -1,5 +1,5 @@
 # Delay
-Delay library without using **delay()** function. So, any process will not interrupted by this one.
+Delay library without using **delay()** function. So, the AVR microcontroller can multitask!
 
 
 
