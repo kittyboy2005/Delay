@@ -2,8 +2,8 @@
                               DELAY LIBRARY
 ======================================================================================
 
-Rearranged by: Manzar-E-Hassin <mnz247@hotmail.com>
-Published on Saturday, 9th November, 2021
+Created by: Manzar-E-Hassin <mnz247@hotmail.com>
+Published on Tuesday, 9th November, 2021
 
 
 MIT License
