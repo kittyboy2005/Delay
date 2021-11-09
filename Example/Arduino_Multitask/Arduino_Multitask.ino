@@ -45,10 +45,10 @@ void loop()
 
 void foo1()   //User Function 1
 {
-  Serial.println("Hello World");    //It will print Hello World in the Serial monitor
+  Serial.println(F("\t Hello World"));    //It will print Hello World in the Serial monitor
 }
 
 void foo2()   //User function 2
 {
-  Serial.println("Hello Universe"); //It will print Hello Universe in the Serial monitor
+  Serial.println(F("Hello Universe")); //It will print Hello Universe in the Serial monitor
 }
