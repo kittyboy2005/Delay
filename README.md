@@ -16,6 +16,7 @@ Delay library without using **delay()** function. So, any process will not inter
 ### delay_(function, interval);
 
 **function:** The user function name which will be executed.
+
 **interval:** Time interval _(in milliseconds)_.
 
 **Returns** nothing.
